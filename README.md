@@ -1,1 +1,5 @@
 # 04-week-homework
+
+Links: https://spencerdbrown.github.io/04-week-homework/
+
+Overall this assignment was a challenge, I spent over 30 hours on it this week and had various troubles until the very last hour. I will say I learned A LOT throughout it, from understanding formatting of JS to be able call upon multiple functions and create a fetch link for the questions and answers arrays! My biggest problem that I ran into was for sure user error. I originally followed a few videos online to get a general outline and idea of it, but when naming my id's and variables I simply didn't notice that what was originally "score" needed to be switched to "time. This caused me literal HOURS of pain, I was deleting, rewritting it over and over, accidently deleting files and lines of code. It was a struggle, but a good lesson overall to be incredibly diligent and thourough with my code. All together a really fun challenge and lesson learned! I'm excited for the next one!
